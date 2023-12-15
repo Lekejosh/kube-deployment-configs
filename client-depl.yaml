@@ -14,8 +14,7 @@ spec:
     spec:
       containers:
         - name: client
-          image: lekejosh/client
-         
+          image: lekejosh/client-ticket:v1
 
 ---
 apiVersion: v1
